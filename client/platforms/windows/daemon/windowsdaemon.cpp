@@ -22,7 +22,6 @@
 #include "logger.h"
 #include "platforms/windows/daemon/windowsfirewall.h"
 #include "platforms/windows/daemon/windowssplittunnel.h"
-#include "platforms/windows/daemon/windowssplittunnelcontracts.h"
 #include "windowsfirewall.h"
 
 #include "core/utils/networkUtilities.h"
